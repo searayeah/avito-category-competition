@@ -1,0 +1,1 @@
+# avito-category-competition
