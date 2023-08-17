@@ -1,4 +1,4 @@
-# avito category competition
+# avito-category-competition
 
 - Text classification competition: __[Avito Category Prediction](https://www.kaggle.com/competitions/avito-category-prediction)__
 - Data: 2 text features: Russian products name and their description; target: category (50 classes)
