@@ -4,14 +4,15 @@ Text classification competition: __[Avito Category Prediction](https://www.kaggl
 
 Features:
 
- - Products name (Russian text)
- - Description (Russian text)
+- Products name (Russian text)
+- Description (Russian text)
 
 Target:
 
- - Category (50 classes)
- 
-Text preprocessing: 
+- Category (50 classes)
+
+Text preprocessing:
+
 - remove punctuation and extra symbols
 - lowercase
 - lemmatize using __PyMystem3__
